@@ -1,0 +1,21 @@
+{
+  "name": "@locmod/icon-name-type",
+  "version": "1.0.2",
+  "description": "This is a script to generate TS file with IconName type",
+  "homepage": "https://github.com/Local-Modules/icon-name-type#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Local-Modules/icon-name-type.git"
+  },
+  "author": "Local-Modules",
+  "bugs": {
+    "url": "https://github.com/Local-Modules/icon-name-type/issues"
+  },
+  "bin": "lib/index.js",
+  "license": "MIT",
+  "dependencies": {
+    "chokidar": "^3.5.3",
+    "glob": "^7.2.0",
+    "yargs": "^17.3.1"
+  }
+}
