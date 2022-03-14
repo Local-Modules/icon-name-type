@@ -1,6 +1,6 @@
 {
   "name": "@locmod/icon-name-type",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "This is a script to generate TS file with IconName type",
   "homepage": "https://github.com/Local-Modules/icon-name-type#readme",
   "repository": {
